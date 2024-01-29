@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f8ccc81-9d49-4f7e-8e01-d930295b836f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XlssJGybQ6uEsQY2erzt816p5M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Desktop/python homeworks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f8ccc81-9d49-4f7e-8e01-d930295b836f" name="Changes" comment="" />
+      <created>1699215205991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699215205991</updated>
+      <workItem from="1699215207009" duration="42000" />
+      <workItem from="1699298817125" duration="4223000" />
+      <workItem from="1699303118237" duration="17000" />
+      <workItem from="1699356463316" duration="1330000" />
+      <workItem from="1699532038779" duration="1441000" />
+      <workItem from="1699886625859" duration="3960000" />
+      <workItem from="1699909085364" duration="1336000" />
+      <workItem from="1700216192290" duration="8161000" />
+      <workItem from="1700599577276" duration="14000" />
+      <workItem from="1700764692807" duration="4811000" />
+      <workItem from="1701950492830" duration="13000" />
+      <workItem from="1701950551413" duration="18000" />
+      <workItem from="1701950591669" duration="3726000" />
+      <workItem from="1702112594513" duration="3483000" />
+      <workItem from="1702385421782" duration="1462000" />
+      <workItem from="1702979439228" duration="3238000" />
+      <workItem from="1703240025183" duration="4446000" />
+      <workItem from="1703755491688" duration="3768000" />
+      <workItem from="1704315813033" duration="2902000" />
+      <workItem from="1704654136651" duration="183000" />
+      <workItem from="1704793192838" duration="2450000" />
+      <workItem from="1704801769686" duration="535000" />
+      <workItem from="1704804049856" duration="593000" />
+      <workItem from="1704804701351" duration="10000" />
+      <workItem from="1704918017397" duration="2599000" />
+      <workItem from="1706275043691" duration="935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/homework31_py$homework94.coverage" NAME="homework94 Coverage Results" MODIFIED="1700767010164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework9" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework91.coverage" NAME="homework91 Coverage Results" MODIFIED="1700765349139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework9" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework101.coverage" NAME="homework101 Coverage Results" MODIFIED="1701957542687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework11" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework85.coverage" NAME="homework85 Coverage Results" MODIFIED="1700765062105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework8" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework113.coverage" NAME="homework113 Coverage Results" MODIFIED="1701958459560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework11" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework82.coverage" NAME="homework82 Coverage Results" MODIFIED="1700764877987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework8" />
+    <SUITE FILE_PATH="coverage/homework31_py$lesson4.coverage" NAME="lesson4 Coverage Results" MODIFIED="1699904534004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lessons python" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework183.coverage" NAME="homework183 Coverage Results" MODIFIED="1704317837516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework18" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework42.coverage" NAME="homework42 Coverage Results" MODIFIED="1699532891188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homeworks4" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework135.coverage" NAME="homework135 Coverage Results" MODIFIED="1702386232311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework13" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework171.coverage" NAME="homework171 Coverage Results" MODIFIED="1703759223655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework17" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework153.coverage" NAME="homework153 Coverage Results" MODIFIED="1703011665462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework15" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework162.coverage" NAME="homework162 Coverage Results" MODIFIED="1703243777019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_homework16" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework55.coverage" NAME="homework55 Coverage Results" MODIFIED="1699909912842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework5" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework72.coverage" NAME="homework72 Coverage Results" MODIFIED="1700771709820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework7" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework31.coverage" NAME="homework31 Coverage Results" MODIFIED="1703758870012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework3" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework187.coverage" NAME="homework187 Coverage Results" MODIFIED="1704318721810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework18" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework54.coverage" NAME="homework54 Coverage Results" MODIFIED="1699990321584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework5" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework61.coverage" NAME="homework61 Coverage Results" MODIFIED="1700216568620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework6" />
+    <SUITE FILE_PATH="coverage/homework171_py$Comprehensions3.coverage" NAME="Comprehensions3 Coverage Results" MODIFIED="1706275668459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Comprehensions" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework152.coverage" NAME="homework152 Coverage Results" MODIFIED="1702980775620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework15" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework181.coverage" NAME="homework181 Coverage Results" MODIFIED="1704316177610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework18" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework37.coverage" NAME="homework37 Coverage Results" MODIFIED="1699357222222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework3" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework84.coverage" NAME="homework84 Coverage Results" MODIFIED="1700764863845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework8" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework43.coverage" NAME="homework43 Coverage Results" MODIFIED="1699533282188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homeworks4" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework62.coverage" NAME="homework62 Coverage Results" MODIFIED="1700216826004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework6" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework185.coverage" NAME="homework185 Coverage Results" MODIFIED="1704318524831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework18" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework133.coverage" NAME="homework133 Coverage Results" MODIFIED="1702386132451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework13" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework182.coverage" NAME="homework182 Coverage Results" MODIFIED="1704317339420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework18" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework53.coverage" NAME="homework53 Coverage Results" MODIFIED="1699909908929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework5" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework41.coverage" NAME="homework41 Coverage Results" MODIFIED="1699532651804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homeworks4" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework83.coverage" NAME="homework83 Coverage Results" MODIFIED="1700598124262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework8" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework103.coverage" NAME="homework103 Coverage Results" MODIFIED="1701958169339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework11" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework151.coverage" NAME="homework151 Coverage Results" MODIFIED="1703011048802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework15" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework112.coverage" NAME="homework112 Coverage Results" MODIFIED="1701959281170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework11" />
+    <SUITE FILE_PATH="coverage/homework171_py$Comprehensions5.coverage" NAME="Comprehensions5 Coverage Results" MODIFIED="1706275980183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Comprehensions" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework56.coverage" NAME="homework56 Coverage Results" MODIFIED="1699909920662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework5" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework71.coverage" NAME="homework71 Coverage Results" MODIFIED="1700594482601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework7" />
+    <SUITE FILE_PATH="coverage/homework171_py$Comprehensions.coverage" NAME="Comprehensions Coverage Results" MODIFIED="1706275232677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Comprehensions" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework81.coverage" NAME="homework81 Coverage Results" MODIFIED="1700597513508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework8" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework63.coverage" NAME="homework63 Coverage Results" MODIFIED="1700217120806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework6" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework92.coverage" NAME="homework92 Coverage Results" MODIFIED="1700766585808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework9" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework132.coverage" NAME="homework132 Coverage Results" MODIFIED="1703244302601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework13" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework64.coverage" NAME="homework64 Coverage Results" MODIFIED="1700217428941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework6" />
+    <SUITE FILE_PATH="coverage/homework171_py$homework171.coverage" NAME="homework171 Coverage Results" MODIFIED="1704804644984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework17" />
+    <SUITE FILE_PATH="coverage/homework171_py$homework31.coverage" NAME="homework31 Coverage Results" MODIFIED="1704920245501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework3" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework161.coverage" NAME="homework161 Coverage Results" MODIFIED="1703244193761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_homework16" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework131.coverage" NAME="homework131 Coverage Results" MODIFIED="1702113059778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework13" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework52.coverage" NAME="homework52 Coverage Results" MODIFIED="1699909906322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework5" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework102.coverage" NAME="homework102 Coverage Results" MODIFIED="1701957704303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework11" />
+    <SUITE FILE_PATH="coverage/homework31_py$homework93.coverage" NAME="homework93 Coverage Results" MODIFIED="1700766659274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python homework9" />
+  </component>
+</project>
